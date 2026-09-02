@@ -1,0 +1,25 @@
+---
+title: "JeongKyu Suh"
+subtitle: "서정규"
+about:
+  template: trestles
+  image: profile.jpg
+  image-shape: rounded
+  image-width: 15em
+
+---
+Welcome to my website! I'm a Ph.D. candidate in [the Department of Political Science](https://www.uh.edu/class/political-science/) at [the University of Houston](https://www.uh.edu/). I am currently a Visiting Scholar in [the Department of Political Science at Penn State University](https://polisci.la.psu.edu/).
+
+My research examines American public opinion and political psychology, with a focus on affective polarization, race and ethnic politics, and stereotypes. My dissertation argues that partisan polarization shapes how Americans evaluate racial and immigrant groups—as political allies or adversaries—through party–race linkage stereotypes, and asks how counter-stereotypic political information can reshape these associations. Methodologically, I work with experimental methods and causal inference. My work has appeared in *Political Science Research and Methods* and *Political Studies*.
+
+I received my M.A. in Political Science from [Sogang University](https://wwwe.sogang.ac.kr/wwwe/index_new.html) and my B.A. in Political Science and International Relations, *summa cum laude*, from [Kookmin University](https://english.kookmin.ac.kr/).
+
+
+::: {.pronounce-box}
+
+**How to pronounce my name:**
+
+- *JeongKyu* sounds similar to "John Q," and *Jeong* can also be pronounced like the "jung" in "jungle."
+- *Suh* is pronounced like "saw," not "su" or "soo."
+:::
+

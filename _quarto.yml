@@ -1,0 +1,45 @@
+project:
+  type: website
+
+website:
+  title: "JeongKyu Suh"
+  navbar:
+    left:
+      - href: index.qmd
+        text: About
+      - href: cv.qmd
+        text: CV
+      - href: research.qmd
+        text: Research
+      - href: teaching.qmd
+        text: Teaching
+
+    right:
+      - icon: envelope
+        href: mailto:jsuh3@uh.edu
+        aria-label: Email
+      - icon: mortarboard
+        href: https://scholar.google.com/citations?user=jeongkyuu.suh
+        aria-label: Google Scholar
+      - icon: twitter-x
+        href: https://x.com/jeongkyu_suh
+        aria-label: X
+      - icon: linkedin
+        href: https://www.linkedin.com/in/jeongkyu-suh-69a58a224
+        aria-label: LinkedIn
+      - icon: github
+        href: https://github.com/jeongkyusuh
+        aria-label: GitHub
+
+  page-footer:
+    center: "© 2026 JeongKyu Suh &nbsp; Built with [Quarto](https://quarto.org)"
+    background: "#1a3a5c"
+
+format:
+  html:
+    theme:
+      - cosmo
+      - brand
+    css: styles.css
+    toc: true
+
