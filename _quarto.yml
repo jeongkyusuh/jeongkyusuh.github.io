@@ -1,6 +1,8 @@
 project:
   type: website
   output-dir: docs
+  resources:
+    - google0e656eb5f3293e2e.html
 
 website:
   title: "JeongKyu Suh"
