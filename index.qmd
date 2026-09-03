@@ -4,6 +4,7 @@ subtitle: "서정규"
 about:
   template: trestles
   image: profile.jpg
+  image-alt: "JeongKyu Suh"
   image-shape: rounded
   image-width: 15em
 
@@ -14,12 +15,13 @@ My research examines American public opinion and political psychology, with a fo
 
 I received my M.A. in Political Science from [Sogang University](https://wwwe.sogang.ac.kr/wwwe/index_new.html) and my B.A. in Political Science and International Relations, *summa cum laude*, from [Kookmin University](https://english.kookmin.ac.kr/).
 
-
 ::: {.pronounce-box}
 
 **How to pronounce my name:**
 
-- *JeongKyu* sounds similar to "John Q," and *Jeong* can also be pronounced like the "jung" in "jungle."
-- *Suh* is pronounced like "saw," not "su" or "soo."
+- *JeongKyu* sounds similar to "John Q." To be specific, *Jeong* is pronounced like the "jung" in "jungle," and *Kyu* is pronounced like "cue."
+
+- *Suh* is pronounced like "saw" or "sir" (without the "r"), not "su" or "soo."
+
 :::
 

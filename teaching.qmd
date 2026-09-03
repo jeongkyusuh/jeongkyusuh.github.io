@@ -19,7 +19,7 @@ American Politics, Political Behavior, Public Opinion, Political Psychology, Rac
 
 **Korea Social Science Data Archive (KOSSDA) Statistics Workshop**
 
-- Introduction to STATA for Social Science Researchers — 2021–2024 (6 times)
+- Introduction to Stata for Social Science Researchers — 2021–2024 (six workshops)
 
 
 ## Teaching Assistant
@@ -35,10 +35,10 @@ American Politics, Political Behavior, Public Opinion, Political Psychology, Rac
 
 **Korea Social Science Data Archive (KOSSDA) Statistics Workshop**
 
-- Intermediate Statistical Analysis: Regression Analysis — 2017–2023 (11 times)
-- Introduction to Statistical Analysis — 2016–2017 (3 times)
+- Intermediate Statistical Analysis: Regression Analysis — 2017–2023 (eleven workshops)
+- Introduction to Statistical Analysis — 2016–2017 (three workshops)
 
 
 **Sogang University**
 
-- Teaching assistant for undergraduate courses in American Politics, Comparative Politics, and Political Psychology — 2016–2017
+- Undergraduate courses in American Politics, Comparative Politics, and Political Psychology — 2016–2017
