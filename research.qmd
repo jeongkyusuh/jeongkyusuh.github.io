@@ -11,25 +11,19 @@ Clifford, Scott, Elizabeth Simas, and **JeongKyu Suh**. 2025. ["The Policy Basis
 **Suh, JeongKyu**. 2017. ["How National Identity Shapes South Koreans' Attitudes toward North Korea and Its Defectors."](https://doi.org/10.18848/2327-0071/CGP/v12i01/13-42) *The International Journal of Interdisciplinary Civic and Political Studies* 12(1): 13-42.
 
 
-## Selected Works in Progress
+## Working Papers (Available on Request)
+"When Partisan Affect Spills Over: The Conditional Spillover of Affective Polarization into Racial Group Evaluation"
 
-**Dissertation: *Whose Side Are They On? Party-Race Linkage Stereotypes and the Partisanization of Racial and Immigration Attitudes***
-
-"When Partisan Affect Spills Over: The Conditional Spillover of Affective Polarization into Racial Group Evaluation" *(In preparation for submission; draft available upon request)*
-
-
-**Other Projects**
+"Perceived Threats from Immigrants' Political Participation and the Limited Impact of Ethnocentrism: Evidence from a Survey Experiment in South Korea" (with Shang E. Ha)
 
 "Political Psychology and Intraparty Politics: The Dispositional Foundations of Factionalism in U.S. Primaries" (with Trent Ollerenshaw and Lucas Lothamer)
 
+## Selected Works in Progress
 “Anti-Trans Spillover or Anti-Woke Backlash? Explaining the Reversal of Support for Gay Rights among Republicans" (with Trent Ollerenshaw and POLS 6365 UH graduate students)
-
-"Perceived Threats from Immigrants' Political Participation and the Limited Impact of Ethnocentrism: Evidence from a Survey Experiment in South Korea" (with Shang E. Ha)
 
 "Do Colors Function as Political Stereotypes? The Hidden Priming Effect of Color in Candidate Evaluations"
 
 *See my [CV](cv.qmd) for additional works in progress.*
-
 
 ## Other Publications: DataSets & Programming
 
